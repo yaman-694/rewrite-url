@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/test/:path*",
-      "destination": "https://websites-test.recruitcrm.io/:path*"
+      "destination": "https://tutorials.recruitcrm.io/:path*"
     }
   ]
 }
